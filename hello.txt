@@ -22,4 +22,6 @@ faesfiojdsjflajsldjfsakldjfoiewujfj
 afejaoiwhfsalkdjfajseoiwpaihfsadl;kfhwasdfefw
 //紧急修复
 //主线合并分支冲突测试
-
+//选择取主线分支冲突测试保留
+//紧急修复合并分支测试
+//yes
